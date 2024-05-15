@@ -28,7 +28,6 @@
 - [License](#license)
 
 ## Segment Consent Manager
-
 The Segment Consent Manager is an analytics.js add-on with support to consent management.
 
 At its core, the Consent Manager empowers your visitors to control and customize their tracking preferences on a website. They can opt out entirely of being tracked, or selectively opt out of tools in which they don’t want their information stored.
